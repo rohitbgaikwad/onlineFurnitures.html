@@ -1,0 +1,54 @@
+* {
+    margin: 0%;
+}
+
+
+.head_des {
+    font-size: xx-large;
+    display: flex;
+    border: 1px solid black;
+    height: 50px;
+    color: white;
+    padding-top: 20px;
+    margin-bottom: 2%;
+    background-image: repeating-linear-gradient(45deg, hsla(64, 83%, 54%, 0.05) 0px, hsla(64, 83%, 54%, 0.05) 1px, transparent 1px, transparent 11px, hsla(64, 83%, 54%, 0.05) 11px, hsla(64, 83%, 54%, 0.05) 12px, transparent 12px, transparent 32px), repeating-linear-gradient(90deg, hsla(64, 83%, 54%, 0.05) 0px, hsla(64, 83%, 54%, 0.05) 1px, transparent 1px, transparent 11px, hsla(64, 83%, 54%, 0.05) 11px, hsla(64, 83%, 54%, 0.05) 12px, transparent 12px, transparent 32px), repeating-linear-gradient(0deg, hsla(64, 83%, 54%, 0.05) 0px, hsla(64, 83%, 54%, 0.05) 1px, transparent 1px, transparent 11px, hsla(64, 83%, 54%, 0.05) 11px, hsla(64, 83%, 54%, 0.05) 12px, transparent 12px, transparent 32px), repeating-linear-gradient(135deg, hsla(64, 83%, 54%, 0.05) 0px, hsla(64, 83%, 54%, 0.05) 1px, transparent 1px, transparent 11px, hsla(64, 83%, 54%, 0.05) 11px, hsla(64, 83%, 54%, 0.05) 12px, transparent 12px, transparent 32px), linear-gradient(90deg, rgb(41, 27, 158), rgb(249, 77, 212));
+}
+
+#he_co {
+    font-size: xx-large;
+    margin-left: 10%;
+    color: red;
+}
+
+
+.nav_bar {
+   display: flex;
+   justify-content: center;
+   justify-content: space-evenly;
+    
+}
+.nav_bar a{
+    text-decoration: none;
+    color: rgb(8, 9, 10);
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px ;
+    width: 100px;
+    
+}
+a{
+    text-align: center;
+}
+hr{
+    flex: content;
+    align-items: center;
+     margin: 5px 100px 5px 100px;
+}
+.iframe_i iframe{
+   
+     margin: 0px 100px 0px 100px;
+}
+#img_home{
+   margin: 0px 20px;
+}
